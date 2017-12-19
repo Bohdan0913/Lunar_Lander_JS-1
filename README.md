@@ -11,7 +11,7 @@ Enlace de previsualización:
 
 4- La última fase consiste en explicar los procesos que hemos seguido para llevar a cabo el proyecto y hacer una versión con archivos comprimidos para una ejecución más optimizada.
 
-## Tareas técnicas respecto a las fases:
+## Tareas técnicas (respecto a las fases):
 
 1- Creamos una carpeta en el directorio del proyecto que contendrá el archivo de Javascript (.js) 
 
