@@ -18,12 +18,12 @@ Enlace de previsualización:
 2. Tendremos que detectar a qué hacen referencia las Id del Javascript y adaptar los nombres de las Id de nuestro diseño Html comprobando el correcto funcionamiento en conjunto, sino es así corregirlo.
 
 3. Necesitamos de funciones y eventos para:
-	Movimiento de la nave con las teclas especificadas en las instrucciones(botón “ayuda”)
-	Cambiar la imagen de la nave con fuego
-	Parar el motor y los contadores al llegar al límite
-	Mensaje para saber si ganamos o perdemos
-	Selector de dificultad dentro del menú de “ayuda”, fácil y difícil cambiando la velocidad 		necesaria
-	Mensaje de confirmación para cambiar al apartado “Acerca de...”
+	* Movimiento de la nave con las teclas especificadas en las instrucciones(botón “ayuda”)
+	* Cambiar la imagen de la nave con fuego
+	* Parar el motor y los contadores al llegar al límite
+	* Mensaje para saber si ganamos o perdemos
+	* Selector de dificultad dentro del menú de “ayuda”, fácil y difícil cambiando la velocidad 		necesaria
+	* Mensaje de confirmación para cambiar al apartado “Acerca de...”
 4. Pasaremos nuestros archivos Html y Css por un compresor, la versión comprimida irá en un Branch aparte. Finalmente redactamos el Readme en su formado Markdown (.md).
 
 
