@@ -28,5 +28,5 @@ Enlace de previsualización:
 **4.** Pasaremos nuestros archivos Html y Css por un compresor, la versión comprimida irá en un Branch aparte. Finalmente redactamos el          Readme en su formado Markdown (.md).
 
 
-Bibliografía:
-	* Navegador de Internet (moodle, w3schools, stackoverflow, blogs, etc)
+### Bibliografía:
+Navegador de Internet (moodle, w3schools, stackoverflow, blogs, etc)
