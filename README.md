@@ -1,7 +1,7 @@
 # Lunar_Lander_JS
 Enlace de previsualización: 
 
-*Fases del proyecto:
+## Fases del proyecto:
 
 1- Al principio cogemos los archivos de la parte estática del proyecto y le añadimos el archivo de Javascript básico que nos proporciona el profesor.
 
@@ -11,7 +11,7 @@ Enlace de previsualización:
 
 4- La última fase consiste en explicar los procesos que hemos seguido para llevar a cabo el proyecto y hacer una versión con archivos comprimidos para una ejecución más optimizada.
 
-*Tareas técnicas respecto a las fases:
+## Tareas técnicas respecto a las fases:
 
 1- Creamos una carpeta en el directorio del proyecto que contendrá el archivo de Javascript (.js) 
 
@@ -24,7 +24,7 @@ Enlace de previsualización:
 	Mensaje para saber si ganamos o perdemos
 	Selector de dificultad dentro del menú de “ayuda”, fácil y difícil cambiando la velocidad 		necesaria
 	Mensaje de confirmación para cambiar al apartado “Acerda de...”
-4- Pasaremos nuestros archivos Html y Css por un compresor, la versión comprimida irá en un Branch aparte. Finalmente redactamos el Readme en su formado “.md”.
+4- Pasaremos nuestros archivos Html y Css por un compresor, la versión comprimida irá en un Branch aparte. Finalmente redactamos el Readme en su formado Markdown (.md).
 
 
 Bibliografía:
