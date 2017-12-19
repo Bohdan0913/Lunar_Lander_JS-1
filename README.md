@@ -1,4 +1,4 @@
-# Lunar_Lander_JS
+# Lunar_Lander_JS_Min
 Enlace de previsualización: 
 
 ## Fases del proyecto:
