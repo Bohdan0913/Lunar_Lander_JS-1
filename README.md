@@ -22,7 +22,7 @@ Enlace de previsualización:
 	* Cambiar la imagen de la nave con fuego
 	* Parar el motor y los contadores al llegar al límite
 	* Mensaje para saber si ganamos o perdemos
-	* Selector de dificultad dentro del menú de “ayuda”, fácil y difícil cambiando la velocidad 		necesaria
+	* Selector de dificultad dentro del menú de “ayuda”, fácil y difícil cambiando la velocidad necesaria
 	* Mensaje de confirmación para cambiar al apartado “Acerca de...”
 
 **4.** Pasaremos nuestros archivos Html y Css por un compresor, la versión comprimida irá en un Branch aparte. Finalmente redactamos el Readme en su formado Markdown (.md).
