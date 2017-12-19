@@ -5,9 +5,9 @@ Enlace de previsualización:
 
 1- Al principio cogemos los archivos de la parte estática del proyecto y le añadimos el archivo de Javascript básico que nos proporciona el profesor.
 
-2- Luego adaptamos la parte básica del Javascript a nuestro HTML5 y CCS3 haciendo que las funciones y eventos funcionen correctamente.
+2- Luego adaptamos la parte básica del _Javascript_ a nuestro HTML5 y CCS3 haciendo que las funciones y eventos funcionen correctamente.
 
-3- A continuación tendremos que añadir todas las tareas a desarrollar que faltan. Para ello utilizaremos los apuntes del Moodle de la asignatura y en algunas tareas tendremos que buscar soluciones externas como buscar por Internet o preguntar al profesor.
+3- A continuación tendremos que añadir todas las tareas a desarrollar que faltan. Para ello utilizaremos los apuntes del _Moodle_ de la asignatura y en algunas tareas tendremos que buscar soluciones externas como buscar por Internet o preguntar al profesor.
 
 4- La última fase consiste en explicar los procesos que hemos seguido para llevar a cabo el proyecto y hacer una versión con archivos comprimidos para una ejecución más optimizada.
 
