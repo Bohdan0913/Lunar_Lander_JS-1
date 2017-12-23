@@ -1,0 +1,31 @@
+*{margin:0px; padding:0px}
+body{
+	background: url(../img/espacio3.jpg) no-repeat center center fixed;
+	background-size: cover;
+}
+.info{
+	
+
+    width: 80%;
+    padding: 16px;
+    text-align: center;
+    background: #FFEB3B;
+    border: 5px solid #dc3e04;
+    border-radius: 12px;
+	margin-left: auto;
+    margin-right: auto;
+	margin-top: 10%;
+    display: table;
+}
+
+.info li{
+	list-style:none;
+	
+}
+#return {
+	float:right;
+}
+
+.info p{
+	text-align: justify;
+}
