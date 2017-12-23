@@ -1,5 +1,5 @@
 # Lunar_Lander_JS_Min
-Enlace de previsualización: 
+Enlace de previsualización: https://rawgit.com/DaniTur/Lunar_Lander_JS/Lunar_Lander_JS_Min/rocket.min.html
 
 ## Fases del proyecto:
 
