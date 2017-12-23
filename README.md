@@ -1,7 +1,7 @@
 # Lunar_Lander_JS
 Enlace de previsualización: 
 
-## Fases del proyecto:
+## Fases del proyecto:https://rawgit.com/DaniTur/Lunar_Lander_JS/master/rocket.html
 
 **1.** Al principio cogemos los archivos de la parte estática del proyecto y le añadimos el archivo de Javascript básico que nos proporciona el profesor.
 
