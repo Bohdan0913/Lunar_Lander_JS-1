@@ -15,9 +15,9 @@
 		<div class="container">
 			<div class="controlPanel">
 				<ul id="controlPanel">
-					<li><span class="vesc">Height:</span><span class="vmov">H:</span><span id="altura"> 0 </span>Km</li>
-					<li><span class="vesc">Fuel:</span><span class="vmov">F:</span><span id="fuel"> 100</span> %</li>
-					<li><span class="vesc">Speed:</span><span class="vmov">S:</span><span id="velocidad"> 0 </span>Km/h</li>
+					<li id="altu-li"><span class="vesc">Height: </span><span class="vmov">H: </span><span id="altura"> 0 </span> Km</li>
+					<li id="fuel-li"><span class="vesc">Fuel: </span><span class="vmov">F: </span><span id="fuel"> 100</span> %</li>
+					<li id="vel-li"><span class="vesc">Speed: </span><span class="vmov">S: </span><span id="velocidad"> 0</span> Km/h</li>
 				</ul>
 			</div>
 			<div class="nave">
@@ -32,17 +32,17 @@
 				</ul>
 			</div>
 			<div class="ayuda">
-				<h3>Instrucciones:</h3>
+				<h3>Instrucciones:</h3><br>
 				Para ganar necesita aterrizar a una velocidad menor de <b>3 Km/h</b> en modo Difícil(por defecto) y menor de <b>5 Km/h</b> en Fácil,<br>
 				para frenar hay que apretar la <b>barra espaciadora</b> en versión escritorio,
 				pulsar el <b>botón de encendido</b> en dispositivos móviles.<br><br>
-				<a id="facil" href="#">Fácil</a><a id="dificil" href="#">Dificil</a><br>
-				<!--<a id="nave1" href="#">Nave1</a><a id="nave2" href="#">Nave2</a>--><br>
+				<a id="facil" href="#"><b>Fácil</b></a><a id="dificil" href="#"><b>Difícil</b></a><br>
+				<br>
 				<a id="about" href="" onClick="confirma('about.html'); return false;">Acerca de...</a><a href="#" id="hidem">Volver</a>
 			</div>
 			<div id="boton"><a href="#"><img src="img/boton.png" alt="encender"></a></div>
-			<div class="ganado">Has Ganado!</div>
-			<div class="perdido">Has Perdido!</div>
+			<div class="ganado"><b>Has Ganado!</b></div>
+			<div class="perdido"><b>Has Perdido!</b></div>
 		</div>
 	</body>
 </html>

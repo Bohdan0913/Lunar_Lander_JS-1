@@ -3,6 +3,7 @@
 body{
 	background: url(../img/espacio3.jpg) no-repeat center center fixed;
 	background-size: cover;
+	font-family: Arial;
 }
 .controlPanel {
     top: 5%;
@@ -26,7 +27,7 @@ body{
 	list-style: none;
 	float: left;
 	margin: 1%;
-    padding: 11px;
+    padding: 7px;
 	font-size: 5vw;
 }
 .nave{
@@ -76,11 +77,11 @@ body{
     background: #FFEB3B;
     border: 5px solid #dc3e04;
     border-radius: 12px;
-	margin-left: auto;
+		margin-left: auto;
     margin-right: auto;
-	margin-top: 15%;
+		margin-top: 24%;
     display: none;
-	position: relative;
+		position: relative;
     z-index: 2;
 }
 .ayuda a{
@@ -98,12 +99,12 @@ body{
     background: #FFEB3B;
     border: 5px solid #dc3e04;
     border-radius: 12px;
-	margin-left: auto;
+		margin-left: auto;
     margin-right: auto;
-	margin-top: 15%;
+		margin-top: 23%;
     display: none;
-	overflow:hidden;
-	position: relative;
+		overflow:hidden;
+		position: relative;
     z-index: 0;
 }
 #boton{
@@ -118,4 +119,14 @@ body{
 }
 #boton img{
 	width:100%;
+}
+
+#vel-li{
+	color: #adbdff;
+}
+#fuel-li{
+	color: #ffdc9d;
+}
+#altu-li{
+	color: #cdcdcd;
 }

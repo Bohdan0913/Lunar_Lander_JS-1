@@ -3,6 +3,7 @@
 body{
 	background: url(../img/espacio3.jpg) no-repeat center center fixed;
 	background-size: cover;
+	font-family: Arial;
 }
 .controlPanel {
     background-color: lightgrey;
@@ -69,7 +70,7 @@ body{
 .vmov{display:none;}
 
 .ayuda{
-    width: 80%;
+    width: 60%;
     padding: 16px;
     text-align: center;
     background: #FFEB3B;
@@ -106,4 +107,13 @@ body{
 }
 #boton{
 	display:none;
+}
+#vel-li{
+	color: #adbdff;
+}
+#fuel-li{
+	color: #ffdc9d;
+}
+#altu-li{
+	color: #cdcdcd;
 }

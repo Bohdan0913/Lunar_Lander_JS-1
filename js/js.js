@@ -24,7 +24,7 @@ window.onload = function(){
 
 	//definición de eventos
 	//mostrar menú
-    	document.getElementById("show").onclick = function () {
+  document.getElementById("show").onclick = function () {
 		document.getElementsByClassName("ayuda")[0].style.display = "table";
 		stop();
 	}
@@ -67,12 +67,12 @@ window.onload = function(){
 			modo = "facil";
 			reinicio();
 			document.getElementById("facil").style.color="red";
-			document.getElementById("dificil").style.color="green";
+			document.getElementById("dificil").style.color="#053e0599";
 		}
 	document.getElementById("dificil").onclick = function(){
 			modo = "dificil";
 			reinicio();
-			document.getElementById("facil").style.color="green";
+			document.getElementById("facil").style.color="#053e0599";
 			document.getElementById("dificil").style.color="red";
 		}
 
@@ -84,6 +84,10 @@ function reinicio(){
 	y=13;
 	c=100;
 	document.getElementsByClassName("ayuda")[0].style.display = "none";
+	document.getElementsByClassName("explosion")[0].style.display = "none";
+	document.getElementsByClassName("perdido")[0].style.display = "none";
+	document.getElementsByClassName("ganado")[0].style.display = "none";
+	combustible.innerHTML=c.toFixed(1);
 	start();
 }
 //Empzar juego
