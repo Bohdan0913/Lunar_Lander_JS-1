@@ -2,7 +2,7 @@
 Enlace de previsualización: https://rawgit.com/DaniTur/Lunar_Lander_JS/Lunar_Lander_JS_Min/rocket.min.html
 (recargar la página varias veces o esperar a que cargue todo correctamente)
 
-Con Html, Css i Javascript comprimidos.
+Con Html, Css y Javascript comprimidos.
 
 ## Fases del proyecto:
 
